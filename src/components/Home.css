@@ -1,0 +1,68 @@
+.sbox {
+    margin-top: 50px;
+}
+
+.btn {
+    margin: 20px;
+}
+
+.btn-container {
+    margin: 20px;
+}
+
+.listcont {
+    width: 100%;
+    margin-top: 20px;
+    align-content: center;
+}
+
+.mycard {
+    margin-top: 50px;
+    align-content: center;
+}
+
+.title {
+    margin: 50px 0px 0px 0px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.title::after {
+    display: inline-block;
+    content: "";
+    border-top: .1rem solid rgb(0, 0, 0, 0.4);
+    width: 100%;
+    transform: translateY(20rem);
+    transform: translateX(0rem);
+}
+
+.carousel-my {
+    width: 50%;
+}
+
+.slide {
+    margin: 0px auto 0px auto;
+}
+
+.carousel-caption {
+    background-color: black;
+}
+
+.icon {
+    font-size: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+@media only screen and (min-width: 300px) {
+.heads{
+  text-align: center !important;
+}
+}
+
+
+@media only screen and (min-width: 768px) {
+  .heads{
+  text-align: left !important;
+}
+}

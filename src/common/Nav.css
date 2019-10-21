@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Caesar+Dressing');
+.logo {
+    height: 40px;
+    width: 30px;
+    margin: 10px;
+    outline: none;
+}
+
+.navbar-brand {
+    font-family: 'Caesar Dressing', cursive;
+    outline: none;
+    width:40px;
+}
+
+.fas {
+    margin: 5px;
+}
